@@ -2,7 +2,7 @@
 
 # Polymorphism
 
-1. What does the ___word___ 'polymorphism' mean?
+1. What does the ___word___ 'polymorphism' mean?/n
     "Many""change"
 
 2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.

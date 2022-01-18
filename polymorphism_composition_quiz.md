@@ -2,8 +2,8 @@
 
 # Polymorphism
 
-1. What does the ___word___ 'polymorphism' mean?<br>
-    "Many""change"
+1. What does the ___word___ 'polymorphism' mean?<br />
+    a. "Many""change"
 
 2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
     That subclasses should be able to work as if implemented as one of it's parent classes, essentially the parent can't do anything the child can't do.
